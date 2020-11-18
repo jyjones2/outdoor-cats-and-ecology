@@ -1,3 +1,7 @@
+## Webpage
+Powered by [Jekyll](https://jekyllrb.com) via [Github Pages](https://pages.github.com/)
+Theme: [Cayman](https://jekyll-themes.com/cayman/)
+
 ## Image Sources
 “Black cat Silhouette” (cover image) clipart via https://www.hiclipart.com/free-transparent-background-png-clipart-mylpg
 
