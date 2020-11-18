@@ -10,7 +10,7 @@
 <img style="float: right;" src="cat-5618328_1920.jpg">
   Outdoor housecats are a common sight in cities and suburbs throughout the United States. We like to allow our feline friends the freedom to do as they wish. Cats are solitary and independent animals, so it only makes sense that we let them roam freely; trusting, of course, they come back to eat.
 
-Unfortunately, despite our best intention, by introducing our feline companions to an entirely unprepared ecosystem, we have allowed a major ecological catastrophy to unfold. For more details about felis catis environmental impact, please click [here](https://skippyj.github.io/cats-and-ecology/the_problem)
+Unfortunately, despite our best intention, by introducing our feline companions to an entirely unprepared ecosystem, we have allowed a major ecological catastrophy to unfold. For more details the environmental impact of outdoor cats, please click [here](https://skippyj.github.io/cats-and-ecology/the_problem)
 
 ### It isn't just feral cats
   When it comes to predation, there isn't much difference between a domesticated cat roaming freely outdoors and a feral cat with no definite home. Cats are predators by nature and will hunt for more than just sustenance. Beyond that, un-neutered outdoor cats (whether or not they are feral) inevitibly contribute to a growing feral cat population.
