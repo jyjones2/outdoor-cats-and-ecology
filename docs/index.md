@@ -3,7 +3,7 @@
 #### How Do We Fix This?
 
 <center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/Q0jpD0BHgwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="576" src="https://www.youtube.com/embed/Q0jpD0BHgwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ### The Problem
