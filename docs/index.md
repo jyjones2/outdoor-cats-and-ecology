@@ -1,6 +1,5 @@
 # Outdoor Cats 
 ### The Cutest Ecological Menace on Earth. 
-#### How Do We Fix This?
 
 <center>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Q0jpD0BHgwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
