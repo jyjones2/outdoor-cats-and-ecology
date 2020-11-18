@@ -2,8 +2,8 @@
 ### The Cutest Ecological Menace on Earth. 
 #### How Do We Fix This?
 
-<video width="320" height="240" controls>
-  <source src="cats_ad.mp4" type="video/mp4">
+<video class="center" width="640" height="385" controls>
+  <source src="https://www.youtube.com/watch?v=Q0jpD0BHgwQ&feature=youtu.be" type="video/mp4">
 </video>
 
 ### The Problem
