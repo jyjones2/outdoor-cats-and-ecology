@@ -2,9 +2,7 @@
 ### The Cutest Ecological Menace on Earth. 
 #### How Do We Fix This?
 
-<video class="center" width="640" height="385" controls>
-  <source src="https://www.youtube.com/watch?v=Q0jpD0BHgwQ&feature=youtu.be" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q0jpD0BHgwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The Problem
 <img style="float: right;" src="cat-5618328_1920.jpg">
