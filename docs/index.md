@@ -2,7 +2,9 @@
 ### The Cutest Ecological Menace on Earth. 
 #### How Do We Fix This?
 
-[video here](todo)
+<video width="320" height="240" controls>
+  <source src="cats_ad.mp4" type="video/mp4">
+</video>
 
 ### The Problem
 <img style="float: right;" src="cat-5618328_1920.jpg">
