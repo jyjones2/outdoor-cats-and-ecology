@@ -9,7 +9,7 @@
 <img style="float: right;" src="cat-5618328_1920.jpg">
   Outdoor housecats are a common sight in cities and suburbs throughout the United States. We like to allow our feline friends the freedom to do as they wish. Cats are solitary and independent animals, so it only makes sense that we let them roam freely; trusting, of course, they come back to eat.
 
-Unfortunately, despite our best intention, by introducing our feline companions to an entirely unprepared ecosystem, we have allowed a major ecological catastrophy to unfold. For more details the environmental impact of outdoor cats, please click [here](https://skippyj.github.io/cats-and-ecology/the_problem)
+Unfortunately, despite our best intention, by introducing our feline companions to an entirely unprepared ecosystem, we have allowed a major ecological catastrophy to unfold. For more details the environmental impact of outdoor cats, please click [here](https://jyjones2.github.io/cats-and-ecology/the_problem)
 
 ### It isn't just feral cats
   When it comes to predation, there isn't much difference between a domesticated cat roaming freely outdoors and a feral cat with no definite home. Cats are predators by nature and will hunt for more than just sustenance. Beyond that, un-neutered outdoor cats (whether or not they are feral) inevitibly contribute to a growing feral cat population.
@@ -18,7 +18,7 @@ Unfortunately, despite our best intention, by introducing our feline companions 
   In order to design and propse an adequate solution, first we have to know what ongoing attempts at remediation have been, or are being undertaken.
 
 #### Trap and Return (TNR)
-  By far the most common approach to our ecological delimma, TNR is a very simple (and comparatively ethical) solution to reduce feral cat population. As the name would suggest, TNR projects seek to trap outdoor cats (usually feral, sometimes domestic), neuter/spay them, and either return them back to the "suburban wild," or house them in local animal shelters to await adoption. Unfortunately, this approach is only as effective as its implementation. According to [a study published by the University of California Davis](https://skippyj.github.io/cats-and-ecology/sources), TNR projects tend to lack effectiveness across the board, due to poor implementation and ill-defined goals. Additionally, TNR projects keep very poor record of their own effectiveness, leading to insufficient data.
+  By far the most common approach to our ecological delimma, TNR is a very simple (and comparatively ethical) solution to reduce feral cat population. As the name would suggest, TNR projects seek to trap outdoor cats (usually feral, sometimes domestic), neuter/spay them, and either return them back to the "suburban wild," or house them in local animal shelters to await adoption. Unfortunately, this approach is only as effective as its implementation. According to [a study published by the University of California Davis](https://jyjones2.github.io/cats-and-ecology/sources), TNR projects tend to lack effectiveness across the board, due to poor implementation and ill-defined goals. Additionally, TNR projects keep very poor record of their own effectiveness, leading to insufficient data.
 
 For more information about TNR, visit [alleycat.org](https://www.alleycat.org/resources/how-to-help-community-cats-a-step-by-step-guide-to-trap-neuter-return/)
 
@@ -39,4 +39,4 @@ For more information about TNR, visit [alleycat.org](https://www.alleycat.org/re
 - If you want your cat to spend time outdoors, consider putting together a small, fenced-in area for them to play freely while still remaining contained. Not only does this decrease the risk of them acting on their predatory nature, but it also reduces the likelyhood that they will suffer due to man-made environmental hazards (ex: cars and trucks). 
  
 ## Sources
-[Click me to view sources!](https://skippyj.github.io/cats-and-ecology/sources)
+[Click me to view sources!](https://jyjones2.github.io/cats-and-ecology/sources)
